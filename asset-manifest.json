@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/yandex-disc-uploader/static/js/main.5754f913.js",
+    "main.js": "/yandex-disc-uploader/static/js/main.9ddfa0f1.js",
     "index.html": "/yandex-disc-uploader/index.html",
-    "main.5754f913.js.map": "/yandex-disc-uploader/static/js/main.5754f913.js.map"
+    "main.9ddfa0f1.js.map": "/yandex-disc-uploader/static/js/main.9ddfa0f1.js.map"
   },
   "entrypoints": [
-    "static/js/main.5754f913.js"
+    "static/js/main.9ddfa0f1.js"
   ]
 }
